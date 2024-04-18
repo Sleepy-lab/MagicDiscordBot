@@ -1,0 +1,30 @@
+{
+  "name": "discordjs-with-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "serve": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corbin-mcguire/band-of-brawlers-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corbin-mcguire/band-of-brawlers-bot/issues"
+  },
+  "homepage": "https://github.com/corbin-mcguire/band-of-brawlers-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.0.3",
+    "fetch": "^1.1.0",
+    "firebase": "^10.6.0",
+    "npm": "^10.4.0",
+    "run": "^1.5.0",
+    "serve": "^14.2.1"
+  }
+}
